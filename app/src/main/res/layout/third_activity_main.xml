@@ -120,6 +120,8 @@
         android:background="@drawable/boxdesign"
         android:backgroundTint="@color/orange"
         android:text="Login"
+        android:id="@+id/ButtonLogin"
+        android:onClick="openMain4"
         android:textColor="@color/white"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
